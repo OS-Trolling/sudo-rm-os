@@ -1,0 +1,7 @@
+iso/boot/*.bin
+*.iso
+
+obj/
+bin/
+
+.vscode/
