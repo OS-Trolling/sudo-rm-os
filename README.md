@@ -1,6 +1,5 @@
-# Multiboot Template
-A template for Operating Systems with multiboot2 support<br>
-This template comes with basic C-kernel support and a basic VGA Terminal.
+# sudo rm OS
+With state of the art VGA Graphics and Multiboot 2 headers, this OS can give you the best way to commit `sudo rm -rf /`!
 
 ## Credits
 Assembly code provided by [CodePulse](https://github.com/davidcallanan) from his [Operating System Tutorial](https://github.com/davidcallanan/os-series)
@@ -14,7 +13,7 @@ Assembly code provided by [CodePulse](https://github.com/davidcallanan) from his
 - grub-common
 
 ## Resources
-- [OSDev Wiki](https://wiki.osdev.org/Main_Page)
+- [OSDev Wiki](https://wiki.osdev.org/Main_Page) (ig)
 
 ## Help
-If you have any question, feel free to [open an issue](https://github.com/averyocean65/avsys/issues/new)!
+If you have any question, feel free to [open an issue](https://github.com/averyocean65/avsys/issues/new)! (if your issue is that you got pissed over me telling you to delete your whole linux filesystem)
