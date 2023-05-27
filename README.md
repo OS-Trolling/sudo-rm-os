@@ -1,7 +1,7 @@
 # sudo rm OS
 With state of the art VGA Graphics and Multiboot 2 headers, this OS can give you the best way to commit `sudo rm -rf /`!
 
-[the os](./media/screenshot.png)
+<img src="./media/screenshot.png">
 
 ## Credits
 Assembly code provided by [CodePulse](https://github.com/davidcallanan) from his [Operating System Tutorial](https://github.com/davidcallanan/os-series)
